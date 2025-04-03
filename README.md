@@ -1,2 +1,3 @@
 ﻿# CurrencyConverter
 Currency Converter designed to streamline currency conversions using HTML, CSS, JavaScript, and API integration. Key features include an intuitive interface, real-time exchange rates from a currency converter API, visual enhancements with flag display, customization options, responsive design, robust error handling, accessibility features, and cross-browser compatibility. This project underscores my expertise in web development, API integration, and user-centric design, offering a practical solution for seamless global transactions.
+ Project link:https://harikrishna-challa.github.io/CurrencyConverter/
