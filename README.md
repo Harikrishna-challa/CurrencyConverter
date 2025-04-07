@@ -1,3 +1,35 @@
-﻿# CurrencyConverter
-Currency Converter designed to streamline currency conversions using HTML, CSS, JavaScript, and API integration. Key features include an intuitive interface, real-time exchange rates from a currency converter API, visual enhancements with flag display, customization options, responsive design, robust error handling, accessibility features, and cross-browser compatibility. This project underscores my expertise in web development, API integration, and user-centric design, offering a practical solution for seamless global transactions.
- Project link:https://harikrishna-challa.github.io/CurrencyConverter/
+# 💱 Currency Converter Web App
+
+This is a responsive and interactive **Currency Converter** web application built using **HTML, CSS, and JavaScript**. It allows users to convert any amount between different currencies using real-time exchange rates powered by the **[Fawaz Ahmed Currency API](https://github.com/fawazahmed0/currency-api)**. The app also displays country flags based on the selected currency for a better user experience.
+
+---
+
+## 🚀 Live Demo
+
+
+---
+
+## 🛠️ Features
+
+- 🔄 Real-time currency conversion
+- 🌍 Supports 150+ currencies
+- 🏳️ Country flags for selected currencies
+- 🎯 Default conversion: USD to INR
+- 💻 Responsive and mobile-friendly
+- 🧮 Auto conversion on page load
+- ⚠️ Input validation for amount field
+
+---
+
+## 📦 Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+- [Fawaz Currency API](https://github.com/fawazahmed0/currency-api)  
+- [FlagsAPI](https://flagsapi.com/)
+
+---
+
+## 📂 Folder Structure
+
